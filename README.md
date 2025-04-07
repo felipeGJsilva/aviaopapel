@@ -1,58 +1,78 @@
 
+# **Test Documentation – Paper Airplane Project (Category: Longest Distance)**
 
-# **Documentação de Testes - Projeto Avião de Papel (Categoria: Maior Distância)**
+## **Test 1 – “Dart” Model**  
+**Flight Result:** Unsuccessful  
 
-## **Teste 1 – Modelo “Dardo”**  
-**Resultado do voo:** Mal sucedido  
+### **Test Description:**  
+We initially chose a dart-style model aiming for greater flight distance, as this format is generally known for better aerodynamics.
 
-### **Descrição do Teste:**  
-Inicialmente, optamos por utilizar o modelo do tipo “dardo”, com o objetivo de alcançar uma maior distância, uma vez que esse formato costuma apresentar melhor aerodinâmica.  
+### **Observed Outcome:**  
+During testing, the model showed structural instability, resulting in a short flight. The plane glided for approximately **2 meters**, but quickly lost altitude and hit the ground.
 
-### **Resultado Observado:**  
-Durante os testes, o modelo demonstrou instabilidade estrutural, resultando em um voo curto. O avião planava levemente por cerca de **2 metros**, porém rapidamente perdia altitude, colidindo com o solo.  
+### **Conclusion:**  
+Performance was unsatisfactory due to poor structural integrity, which compromised its efficiency in flight.
 
-### **Conclusão:**  
-O desempenho foi insatisfatório devido à má estruturação do modelo, comprometendo sua eficiência no ar.  
-
-### **Ação Corretiva:**  
-Será adotado um novo formato de modelo que proporcione maior estabilidade e alcance, buscando otimizar o desempenho em voos de longa distância.
-
----
-
-## **Teste 2 – Modelo Pequeno**  
-**Resultado do voo:** Mal sucedido  
-
-### **Descrição do Teste:**  
-Neste teste, utilizamos um modelo menor, com expectativa de leveza e bom desempenho.  
-
-### **Resultado Observado:**  
-Apesar de alcançar uma distância razoável, aproximadamente **3 metros**, o avião apresentou uma curvatura acentuada à esquerda durante o voo, o que prejudicou a trajetória retilínea e a estabilidade.
-
-### **Vídeo do Teste:**  
-[Link para o vídeo do teste 2](https://github.com/user-attachments/assets/78c0317f-af84-4f26-9569-7cac8257d1ae)
-
-### **Conclusão:**  
-A instabilidade direcional comprometeu o desempenho do modelo, tornando-o inadequado para a competição.
-
-### **Ação Corretiva:**  
-O formato do modelo será ajustado com foco na aerodinâmica e no equilíbrio lateral, visando maior precisão e estabilidade durante o voo.
+### **Corrective Action:**  
+A different airplane design will be tested to improve both stability and flight distance.
 
 ---
 
-## **Teste 3 – Modelo Pequeno com Papel Diferente**  
-**Resultado do voo:** Mal sucedido  
+## **Test 2 – Small Model**  
+**Flight Result:** Unsuccessful  
 
-### **Descrição do Teste:**  
-Mantivemos o mesmo modelo do Teste 2, porém utilizando um tipo de papel diferente, com maior rigidez e densidade, buscando melhorar o desempenho.
+### **Test Description:**  
+In this test, we used a smaller model, expecting better performance due to its lighter weight.
 
-### **Resultado Observado:**  
-O avião apresentou um voo mais longo, com estabilidade inicial, mas ao atingir determinado ponto, perdeu sustentação abruptamente e caiu de forma inclinada, semelhante a um escorregamento.
+### **Observed Outcome:**  
+Although the plane reached a reasonable distance of about **3 meters**, it curved sharply to the left, which caused a loss of direction and flight stability.
 
-### **Vídeo do Teste:**  
-[Link para o vídeo do teste 3](https://github.com/user-attachments/assets/5fdedd1e-3d8c-48a9-9735-c674972c127a)
+### **Test Video:**  
+[Link to test 2 video](https://github.com/user-attachments/assets/78c0317f-af84-4f26-9569-7cac8257d1ae)
 
-### **Conclusão:**  
-Apesar de uma leve melhora em comparação ao teste anterior, o problema de perda súbita de sustentação permanece.
+### **Conclusion:**  
+Directional instability compromised this model’s performance, making it unsuitable for the competition.
 
-### **Ação Corretiva:**  
-Um novo formato de avião será testado, mantendo o mesmo tipo de papel, devido ao bom desempenho inicial observado.
+### **Corrective Action:**  
+The plane’s design will be adjusted to improve its aerodynamics and lateral balance for a straighter, more stable flight.
+
+---
+
+## **Test 3 – Small Model with Different Paper**  
+**Flight Result:** Unsuccessful  
+
+### **Test Description:**  
+We kept the same design used in Test 2 but used a different type of paper with higher stiffness and density, hoping for better flight performance.
+
+### **Observed Outcome:**  
+The plane showed improved initial flight distance, but suddenly lost lift mid-flight and dropped quickly in a downward motion, resembling a slide.
+
+### **Test Video:**  
+[Link to test 3 video](https://github.com/user-attachments/assets/5fdedd1e-3d8c-48a9-9735-c674972c127a)
+
+### **Conclusion:**  
+Although slightly better than the previous test, the issue of sudden lift loss persisted.
+
+### **Corrective Action:**  
+A new model will be tested while keeping the same paper type, as it contributed to improved takeoff performance.
+
+---
+
+## **Test 4 – Refined Dart Model**  
+**Flight Result:** Successful  
+
+### **Test Description:**  
+We developed a new dart-style model with a slimmer design and well-folded structure to enhance aerodynamic performance.
+
+### **Observed Outcome:**  
+The plane performed excellently, maintaining a straight and stable trajectory. It flew for approximately **10 meters**, with consistent lift throughout the flight.
+
+### **Test Video:**  
+[Link to test 4 video](https://github.com/user-attachments/assets/64313e4e-b37e-4acb-a486-20b69a15c66a)
+
+### **Conclusion:**  
+The combination of a thin structure and effective aerodynamic design resulted in a highly efficient and goal-aligned flight. This model proved to be the most suitable for the long-distance category.
+
+### **Corrective Action:**  
+No corrective actions needed. This model will be maintained as the current standard. Minor refinements may be considered for further optimization.
+
