@@ -1,6 +1,4 @@
-Claro! Aqui está a versão mais formal e estruturada da sua documentação de testes para o projeto **avião de papel - voo de distância**:
 
----
 
 # **Documentação de Testes - Projeto Avião de Papel (Categoria: Maior Distância)**
 
