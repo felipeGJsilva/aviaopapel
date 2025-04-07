@@ -23,3 +23,18 @@ https://github.com/user-attachments/assets/78c0317f-af84-4f26-9569-7cac8257d1ae
 ### Mudança:
 
 iremos ajustar o formato do avião para que fique mais aerodinamico
+
+## Teste 3: Modelo Pequeno e folha diferente: Voo de distancia: Mal sucedido
+
+### Explicação:
+
+Refizemos o modelo do teste  2 mas com diferente papel, no qual apresentou uma boa distancia percorrida, entretanto ao chegar uma certa parte do voo, ele ia direto para o chão, como num tobogâ
+
+### Video de teste:
+
+https://github.com/user-attachments/assets/5fdedd1e-3d8c-48a9-9735-c674972c127a]
+
+### Mudança:
+
+escolheremos outro formato mas utilizando possivelmente o mesmo papel
+
